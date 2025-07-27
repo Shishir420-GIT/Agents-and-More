@@ -1,0 +1,11 @@
+langchain
+langchain_ollama
+langchain-openai
+langchain-community
+langchain-text-splitters
+python-dotenv
+ipykernel
+pypdf
+bs4
+chromadb
+faiss-cpu
